@@ -1,3 +1,5 @@
+## Main Event Page
+[Join the University of Alberta and Amazon Web Services to Innovate Solutions for Wildfire Evacuations](https://www.ualberta.ca/events/research-innovation/aidp-hackathon.html)
 
 ## Sample Datasets
 - [Sample Datasets form Natural Resources Canada](https://cwfis.cfs.nrcan.gc.ca/datamart)
